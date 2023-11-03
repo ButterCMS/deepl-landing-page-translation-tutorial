@@ -1,7 +1,7 @@
 # deepl-landing-page-translation-tutorial
 How To Streamline Content Localization With DeepL and ButterCMS
 ## Important Note
-This project was created as an example use case of ButterCMS in conjunction with a blog article, <LINK TO BLOG ARTICLE>, and will not be actively maintained.
+This project was created as an example use case of ButterCMS in conjunction with a blog article,[How To Streamline Content Localization With DeepL and ButterCMS](https://buttercms.com/blog/streamline-content-localization-with-deepl/), and will not be actively maintained.
 
 If you're interested in exploring the best, most up-to-date way to integrate Butter into <FRAMEWORK> Projects, you can check out the following resources:
 
